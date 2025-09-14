@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Pune, Maharashtra, India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "0123456789"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "roshantanpure1119@gmailcom"
+  }
+]
